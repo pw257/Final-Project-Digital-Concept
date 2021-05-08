@@ -28,4 +28,4 @@ This eliminates the unnecessary repetition of the hub.
 Routers do the majority of the hard work on a network - 
 they make the decisions about all the messages that travel on the network, and whether to pass messages to and from outside networks.
 
-Routers have 3 main functions:![3 Functions of Routers](file:///Users/pw257/Desktop/Screen%20Shot%202021-05-07%20at%209.16.07%20PM.png)
+Routers have 3 main functions:![3 Functions of Routers](https://raw.githubusercontent.com/pw257/Final-Project-Digital-Concept/main/Screen%20Shot%202021-05-07%20at%209.16.07%20PM.png)
