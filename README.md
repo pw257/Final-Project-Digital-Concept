@@ -1,5 +1,7 @@
 # Final-Project-Digital-Concept
-Tutorial
-Written By Patrick Wiley.
+Digital Networks Tutorial
 
-Written for IT1600 Students. 
+Written By Patrick Wiley
+>This Tutorial Covers The Basics of Networking and How the Internet Works.
+>
+Written for IT1600 Students.
