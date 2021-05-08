@@ -1,8 +1,9 @@
+![Connections](https://raw.githubusercontent.com/pw257/Final-Project-Digital-Concept/main/network-connections.jpeg)
 # Final-Project-Digital-Concept
-Digital Networks Tutorial
+A Digital Networking Tutorial
 
 Written By Patrick Wiley
->This Tutorial Covers The Basics of Networking and How the Internet Works.
+>This Tutorial Covers The Basics of Networking and How the Internet Works
 >
 Written for IT1600 Students
 
